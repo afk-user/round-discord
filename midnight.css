@@ -93,7 +93,6 @@
 .container-1QtPKm.default-colors:checked /* settings checkbuttons */ {
 	background-color: var(--accent-background) !important;
 }
-.expandedFolderIconWrapper-3RwQpD svg /* folder icons */,
 .strikethrough-2Kl6HF /* mute button strikethrough */ {
 	color: var(--accent-color) !important;
 }
